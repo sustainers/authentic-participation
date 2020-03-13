@@ -6,6 +6,8 @@
 # full list see the documentation:
 # http://www.sphinx-doc.org/en/master/config
 
+import sphinx_rtd_theme
+
 # -- Path setup --------------------------------------------------------------
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -19,14 +21,18 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx-docs-opinionated-quickstart'
-copyright = '2018, Justin W. Flory'
-author = 'Justin W. Flory'
+project = 'Principles of Authentic Participation'
+copyright = '2020, Sustainers'
+author = "Justin W. Flory, " \
+         "Duane O'Brien, " \
+         "Kevin P. Fleming, " \
+         "Alyssa Wright, " \
+         "and others"
 
 # The short X.Y version
-version = '1.0'
+version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -40,6 +46,7 @@ release = '1.0.0'
 # ones.
 extensions = [
     'recommonmark',
+    'sphinx_markdown_tables',
     'sphinx.ext.autodoc',
     'sphinx.ext.todo',
     'sphinx.ext.imgmath',
@@ -83,7 +90,6 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
@@ -115,7 +121,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'sphinx-docs-opinionated-quickstartdoc'
+htmlhelp_basename = 'authentic-participationdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -142,7 +148,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart.tex', 'sphinx-docs-opinionated-quickstart Documentation',
+    (master_doc, 'authentic-participation.tex',
+     'Principles of Authentic Participation',
      'Justin W. Flory', 'manual'),
 ]
 
@@ -152,7 +159,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart', 'sphinx-docs-opinionated-quickstart Documentation',
+    (master_doc, 'authentic-participation',
+     'Principles of Authentic Participation',
      [author], 1)
 ]
 
@@ -163,8 +171,11 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart', 'sphinx-docs-opinionated-quickstart Documentation',
-     author, 'sphinx-docs-opinionated-quickstart', 'One line description of project.',
+    (master_doc, 'authentic-participation',
+     'Principles of Authentic Participation',
+     author, 'authentic-participation',
+     'Guidelines on how organizations and individuals can contribute'
+     'authentically to open source projects and communities'
      'Miscellaneous'),
 ]
 
