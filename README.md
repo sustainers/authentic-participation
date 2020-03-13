@@ -1,34 +1,27 @@
-sphinx-docs-opinionated-quickstart
-==================================
+authentic-participation
+=======================
 
-[![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Build Status](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart.svg?branch=master)](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Documentation Status](https://readthedocs.org/projects/authentic-participation/badge/?version=latest)](https://authentic-participation.readthedocs.io/?badge=latest)
+[![Build Status](https://travis-ci.org/sustainers/authentic-participation.svg?branch=master)](https://travis-ci.org/sustainers/authentic-participation)
 
-Quick-start, opinionated template repository to add [Sphinx-based documentation](http://www.sphinx-doc.org/) to an existing project
+Principles of Authentic Participation: Guidelines on how organizations and individuals can contribute authentically to open source projects and communities
 
 
 ## About
 
-This repository is a working implementation of a documentation toolchain powered by [Sphinx](http://www.sphinx-doc.org/).
-Use these files to quickly set up Sphinx inside of an existing project.
-For convenience, most of the special sauce is inside the `docs/` directory, so you can copy it straight into another project.
+This repository is a working draft of the _Principles of Authentic Participation_.
+This is one place to continue the conversation from Sustain 2020 and to create a resource we can take back to our organizations to advocate for authentic contributions in open source communities.
+For more background context, see the [Sustain OSS Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 
-### "But I thought Sphinx had a quickstart tool already."
-
-Yes, it does.
-But I have opinions.
-And I am lazy.
-So, when I am starting a new project, I want to use a preferred configuration instead of starting from the ground up.
-Sometimes, you may want to start from the ground up.
-So try that first if you like.
-
-But if you are like me, and want to do more writing and less configuring, make your life easier and use a common base.
-This repo is all about getting you to spend more time on what deserves your time, not getting lost in configuration options. :tada:
+**Purpose**: To define a core set of principles of what authentic participation means in multiple contexts (e.g. corporate, individual, humanitarian/NGO, etc.).
 
 
-## About reusing this repo
+## Legal
 
-This repository is licensed under the [BSD 3-Clause License](https://choosealicense.com/licenses/bsd-3-clause/ "BSD 3-Clause “New” or “Revised” License").
-Reuse anything you want in your own projects.
-If you use this quickstart repo in a public repository, a link back here in your README is appreciated. :+1:
+This repository is licensed under the [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/ "Creative Commons - Attribution 4.0 International - CC BY 4.0").
 
+You are free to:
+
+* **Share**: Copy and redistribute the material in any medium or format
+* **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially
