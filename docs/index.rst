@@ -20,7 +20,13 @@ To find the Creative Commons-licensed source for these Principles, see the `GitH
 
     principles/*
 
+.. toctree::
+    :maxdepth: 2
+    :name: advocate-kit
+    :caption: Advocate Kit:
+    :glob:
 
+    advocate-kit/*
 
 
 ****************
