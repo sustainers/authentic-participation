@@ -2,9 +2,15 @@
 Principles of Authentic Participation
 #####################################
 
+.. image:: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+    :alt: License: CC BY 4.0
+    :target: https://creativecommons.org/licenses/by/4.0/
+
 This is the main page for the *Principles of Authentic Participation*.
-Other pages are available for you to navigate and explore below.
-For more information, see the `repo on GitHub <https://github.com/sustainers/authentic-participation>`_.
+The purpose of these Principles are to **define a core set of principles of what authentic participation means in multiple contexts (e.g. corporate, individual, humanitarian/NGO, etc.).**
+
+More information is available below.
+To find the Creative Commons-licensed source for these Principles, see the `GitHub repo`_.
 
 .. toctree::
     :maxdepth: 2
@@ -15,21 +21,13 @@ For more information, see the `repo on GitHub <https://github.com/sustainers/aut
     principles/*
 
 
-*******
-Purpose
-*******
-
-**To define a core set of principles of what authentic participation means in multiple contexts (e.g. corporate, individual, humanitarian/NGO, etc.).**
-
-These principles can be used as a starting place for future work, such as a best practices document, a certification body, or other mediums.
-But before we get tactical, we need to be strategic about what principles are essential to authentic contribution.
 
 
 ****************
 High-level recap
 ****************
 
-This discussion took place across two working sessions at `Sustain 2020 <https://blog.justinwflory.com/2020/02/sustain-oss-2020-quick-rewind/>`_:
+This discussion took place across two working sessions at `Sustain 2020 <https://blog.jwf.io/2020/02/sustain-oss-2020-quick-rewind/>`_:
 
 - Models for corporate accountability as open source community members (a.k.a. what does it mean to be a corporate member of open source communities?)
 - Principles of Authentic Contribution (`session notes`_)
@@ -53,13 +51,5 @@ The `session notes`_ are annotated and color-coded according to the following th
 - **Undervaluation of open source**: Communicating less obvious perks for engaging authentically
 - **You and corporation**: Relationship between individual contributors and the organization they represent in their contributions
 
-
-******************
-Indices and tables
-******************
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. _`GitHub repo`: https://github.com/sustainers/authentic-participation
 .. _`session notes`: https://docs.google.com/document/d/15UcaImOlR1XKA9SX9qE_kxW5A6NRI_369eQUO5ZW1xc/edit?usp=sharing
