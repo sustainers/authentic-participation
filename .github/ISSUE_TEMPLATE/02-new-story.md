@@ -2,7 +2,7 @@
 name: Add a new Principle Story
 about: Share your own public story about how the Principles applied to your life.
 title: 'New story: [my story title here!]'
-labels: 'T: new story', 'new change'
+labels: 'T: new story, new change'
 
 ---
 
