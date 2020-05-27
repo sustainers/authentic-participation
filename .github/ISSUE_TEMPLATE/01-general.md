@@ -1,6 +1,7 @@
 ---
+name: General feedback
+about: Use this issue template to quickly share feedback or a new idea about the Principles.
 labels: needs triage
-assignees: 'jwflory'
 
 ---
 
