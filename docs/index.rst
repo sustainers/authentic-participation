@@ -28,6 +28,14 @@ To find the Creative Commons-licensed source for these Principles, see the `GitH
 
     advocate-kit/*
 
+.. toctree::
+    :maxdepth: 2
+    :name: meta
+    :caption: Meta topics:
+    :glob:
+
+    meta/*
+
 
 ****************
 High-level recap
